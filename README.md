@@ -1,6 +1,6 @@
 # Car-Rental-System 🚗💨
 
-Core Functionality:
+✍🏻 Core Functionalities:
 
 -> Car Inventory Management: Maintain a database of available cars, including details like customer ID, customer names,car models, rental days, total price and availability status.
 
